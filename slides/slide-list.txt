@@ -3,3 +3,8 @@
 02-prompting.md
 03-capabilities-limits-trust.md
 04-use-cases.md
+05-strategy-maturity.md
+06-culture.md
+07-responsible-ai-governance.md
+08-planning-investment-nocode.md
+09-capstone.md

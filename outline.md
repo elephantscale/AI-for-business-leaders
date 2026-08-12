@@ -244,8 +244,16 @@ you'll try tomorrow.
 - Data handling: what may be entered into which tool, retention, and residency —
   and the difference that actually matters, consumer accounts versus an enterprise
   tenant your organization controls
-- Security in one page for leaders: prompt injection, poisoned content, and why
-  "the AI did it" is not a defense
+- Security for leaders, demonstrated rather than described: an ordinary-looking document
+  hijacks a working assistant, live, in front of the room
+- Why it worked, and why it cannot be patched — the model cannot distinguish your
+  instruction from text you gave it to read
+- Which of your existing security instincts transfer (untrusted input, least privilege,
+  approval gates, logging) and which do not (the attack is written in plain English,
+  and the failure is silent and plausible)
+- Poisoned content, excessive agency, and why "the AI did it" is not a defense
+- The governing principle for agents: a system that only produces text for a human to
+  act on is a fundamentally smaller problem than one that can act by itself
 - Governance that works: an AI use policy people can actually follow, an approval path
   proportional to risk, an inventory of AI in use, logging, and audit
 - The regulatory landscape at a leader's altitude, and how to stay adaptable
@@ -309,7 +317,9 @@ organization** throughout, and each exercise produces an artifact they take home
 Running engagement devices used throughout:
 
 - **Live demonstrations** — the instructor runs the tool in front of the room, including
-  the failures
+  the failures: iterating a prompt from useless to usable, a grounded assistant built
+  from nothing in ten minutes, and that same assistant hijacked by a hidden instruction
+  in an ordinary document
 - **Myth or reality** — quick-fire claims the room votes on, then unpacks
 - **Ask me anything** — a standing, open question board addressed at every break
 - **Parking lot** — organization-specific questions captured and answered before close
