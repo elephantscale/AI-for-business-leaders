@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git push *)",
-      "Bash(git add *)",
-      "Bash(git commit -q -m 'Add Day 2 decks, capstone, and live prompt-injection demo *)"
-    ]
-  }
-}
