@@ -164,6 +164,33 @@ grounding instruction from Module 3. That connection makes the whole course cohe
 Use a public document set — never anything sensitive, on principle and in front of
 witnesses.
 
+**Keep this demo SHORT — five minutes, not ten.** It is now the setup for a hands-on lab,
+not the main event. Build one assistant fast, hit the fail-then-fix beat once, then hand
+straight to **Exercise 8b — Build Your Own Grounded Assistant**, where every participant
+does it themselves on their Enterprise seat. Don't spend the room's energy watching; spend
+it building. Use the MTS source packet so it grounds on material they already know.
+
+---
+
+## Now You Build One — Exercise 8b
+
+**You just watched it. Now do it — on your own seat, in thirty minutes.**
+
+1. Create a Custom GPT, ground it on the MTS packet
+2. Ask it three questions you know the answers to
+3. **Ask it something that isn't in the document — watch it make something up**
+4. Fix it with four lines of instruction
+5. Share it
+
+The one that made something up in step 3 is the lesson. Everyone will hit it.
+
+Notes:
+
+This is the hands-on centrepiece of the module. Hand out / point to Exercise 8b. Protect
+the fail-then-fix beat (steps 3–4) — that is where the learning is. If Custom GPT creation
+is locked in the tenant, the lab's fallback (a single chat with an uploaded file) delivers
+the same lesson. Full facilitator guide in `exercises/08b-build-your-assistant.md`.
+
 ---
 
 ## The Limits of No-Code — Be Honest

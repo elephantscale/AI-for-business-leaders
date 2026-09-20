@@ -1,6 +1,6 @@
 # Exercise 2 — The Prompting Workshop
 
-**Module 2** · Pairs · 60 minutes + 10 minutes debrief
+**Module 2** · Individual, on your own seat · 60 minutes + 10 minutes debrief
 
 ---
 
@@ -16,15 +16,34 @@ between a leader who deploys this well and one who gets burned.
 
 ## Setup
 
-- **Pairs.** One working AI account per pair is enough. Pair someone with access to
-  someone without.
-- Document pack A–D, one per pair. Digital copies available if the room has access —
-  copying from paper is a waste of the hour.
+- **Individual.** Everyone is on their own **ChatGPT Enterprise** seat — no pairing, no
+  paper fallback. Every person runs every round themselves. (For the head-to-head at
+  minute 46, let people turn to a neighbour and compare outputs — that pairing is social,
+  not access.)
+- **Document pack A–D is digital.** Drop it in the shared class folder, or — better —
+  pre-load it so people upload it, not retype it. Copying from paper is a waste of the hour.
 - The prompt library sheet at the end of this document, one per **person**.
 
 > **Say this out loud before starting, and mean it:** everything you paste today comes
-> from the pack. Nothing from your own organization. Not because we're being cautious for
-> the sake of it — because we haven't covered the data rules yet, and that's Module 7.
+> from the pack. Nothing from your own organization. Yes, this is your Enterprise tenant
+> and the data stays inside it — but we haven't covered the data rules yet, that's
+> Module 7, and building the habit of asking *"am I allowed to paste this?"* before you
+> paste is the whole point. Today the answer is: only the pack.
+
+### Use the Enterprise features — this is the tool they'll actually have
+
+Two Enterprise capabilities change how these rounds run. Use them, and name them:
+
+- **File upload instead of paste.** Rounds 1–4 all say "paste Document X." On Enterprise,
+  **upload the file and reference it** — closer to real work, and it sidesteps the
+  copy-paste tax. Paste is still fine; upload is better.
+- **A shared Custom GPT for the room (optional, high payoff).** Before class, build one
+  Custom GPT with the four-document pack loaded as its knowledge and instructions like
+  *"Answer only from the uploaded documents. If it isn't in them, say so."* Point the room
+  at it for Rounds 1–4. It previews the grounded-assistant idea they'll **build themselves
+  on Day 2**, and it makes Round 2's count-checking bite harder — everyone is querying the
+  same grounded source, so a wrong count is unmistakably the model's, not a transcription
+  slip. This is a first taste of the Day 2 no-code build lab; say so.
 
 ## Materials
 
@@ -41,7 +60,7 @@ All in `02-materials/`. Fictional throughout — Meridian Technical Services.
 
 | Minutes | Activity |
 |---|---|
-| 0–4 | Setup, pairing, the data warning |
+| 0–4 | Setup, log in to your seat, the data warning |
 | 4–14 | **Round 1 — Summarize** (Doc A) |
 | 14–26 | **Round 2 — Infer** (Doc B) |
 | 26–36 | **Round 3 — Transform** (Doc C) |
@@ -266,9 +285,10 @@ Ask in this order. The sequence matters — start with enthusiasm, end with disc
 
 ---
 
-## If nobody has access
+## If the network fails (true fallback only)
 
-Run it as a room exercise:
+Everyone has an Enterprise seat, so this is no longer the default — it's your parachute
+for a room-wide outage. Run it as a room exercise:
 
 1. Pairs write their prompts **on paper** — same four rounds, same constraints.
 2. Collect one prompt per round from the room, chosen for contrast — one thin, one

@@ -67,6 +67,13 @@ rungs during this ten minutes, and that is the single highest-value moment of th
 **The question that unsticks a stuck team:** *"What would you learn from spending two
 hours doing this by hand in a chat window? Have you done that?"*
 
+> **They just did it.** Everyone in the room built a grounded assistant in Exercise 8b
+> thirty minutes ago. When a team hovers over rung 2 ("can a business user configure an
+> assistant?"), point at what they just built: *"You did exactly that this afternoon, in
+> thirty minutes, with no engineering. Is your use case really harder than that — or does
+> it stop at rung 2?"* For a real fraction of teams, 8b just moved the honest answer up
+> the ladder.
+
 ---
 
 ## Required step 2 — The arithmetic (12 min)
@@ -126,6 +133,15 @@ TOTAL                                     £ .......     £ .......
 
 > **Year two is the honest column.** Year one can be justified with enthusiasm. Year two
 > is when someone's budget has to carry it permanently.
+
+> **Enterprise seat option — pressure-test, don't outsource.** After a team has filled in
+> the iceberg *themselves*, one person can paste their cost lines into ChatGPT and ask:
+> *"We're building this business case. What costs are we probably underestimating or
+> forgetting?"* The tool is good at surfacing the line you skipped — often the integration
+> or the ongoing-evaluation row. Do **not** let it invent the numbers; the arithmetic is
+> the point of the exercise and doing it by hand is what makes the case defensible in a
+> real budget review. Same rule as everywhere in this course: your judgement first, the
+> machine as a check.
 
 ### 2d — The verdict
 

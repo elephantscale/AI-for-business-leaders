@@ -272,7 +272,8 @@ you'll try tomorrow.
   business itself
 - What no-code AI can genuinely do today: a custom assistant grounded on your own
   documents, workflow automation, drafting and review, analysis and reporting —
-  built live in front of the room, in minutes, by someone who cannot program
+  demonstrated live, then **built by every participant themselves**, in minutes, with no
+  programming (Build Lab 8b)
 - The limits of no-code, and the honest signals that you now need engineering
 - What AI actually costs: licensing, usage, integration, data work, change management,
   and ongoing evaluation — the iceberg under the subscription fee
@@ -305,12 +306,13 @@ organization** throughout, and each exercise produces an artifact they take home
 | # | Exercise | Format | Output | Module |
 |---|---|---|---|---|
 | 1 | The Jargon Decoder | Teams, 20 min | Rewritten, testable claims | M1 |
-| 2 | The Prompting Workshop | Individual + pairs, 60 min | A personal prompt library | M2 |
+| 2 | The Prompting Workshop | Individual, 60 min | A personal prompt library | M2 |
 | 3 | Spot the Failure | Teams, 30 min | Trust thresholds for 3 tasks | M3 |
 | 4 | The Use-Case Portfolio | Teams, 60 min | Scored use-case portfolio | M4 |
 | 5 | Honest Maturity Assessment | Individual + group, 30 min | Maturity score + gap list | M5 |
 | 6 | The Resistance Role Play | Role play, 40 min | Communication playbook | M6 |
 | 7 | The Incident Tabletop | Teams, 45 min | Three governance controls | M7 |
+| 8b | Build Your Own Grounded Assistant | Individual, 35 min | A working Custom GPT they built | M8 |
 | 8 | The Business Case | Teams, 45 min | One-page initiative case | M8 |
 | — | Pitch and Challenge | Whole room, 60 min | Defended initiative | Close |
 

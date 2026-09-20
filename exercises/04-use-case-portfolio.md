@@ -78,6 +78,14 @@ case of the day is almost never one of the first three.
   of the quarter?" That question reliably produces three more.
 - The team that generates twenty. Let them. Then make them score all twenty.
 
+> **Enterprise seat option — but only after minute 12, never before.** Once a team has
+> its own list from the four techniques, one person can ask ChatGPT: *"We're an
+> organization that does [one plain sentence]. Here are the 12 AI use cases we found.
+> What obvious ones are we missing?"* Use it as a **blind-spot check**, not a generator.
+> The rule is firm: **your ideas first, the machine's second.** A team that opens ChatGPT
+> before it has struggled to twelve has skipped the entire point of Part 1 — they'll take
+> the tool's generic list and never find their number nine. Watch for it and stop it.
+
 ---
 
 ## Part 2 — Score (20 minutes)
