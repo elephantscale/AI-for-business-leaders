@@ -13,6 +13,12 @@ hands-on but code-free; leaders leave with artifacts (use-case portfolio, maturi
 assessment, business case, a pitch) and — new this delivery — an AI assistant they built
 themselves.
 
+## Live links
+
+- **Student intro form (share in class chat):**
+  https://elephantscale.github.io/AI-for-business-leaders/course-materials/cohort-intros.html
+  (GitHub Pages enabled on `main` root, verified working 2026-09-21.)
+
 ## Current status
 
 Content-complete and building. Deck assembles cleanly (`slides/gen.sh`, verified
