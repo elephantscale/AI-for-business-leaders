@@ -1,8 +1,9 @@
 # Project Operations
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Owner:** Mark Kerzner (instructor, solo)
-**Status:** Yellow — content ready, Day 2 timing needs a decision before delivery
+**Status:** Yellow — content ready; **online-solo delivery**, pre-flight tooling is the
+last real risk before 9/22
 
 ## Purpose and business value
 
@@ -25,6 +26,8 @@ produced a full two-day run sheet. All committed and pushed to `main`.
 - Enterprise labs pass: Ex2 to individual seats; new Ex8b build lab; Ex4/Ex8 live callouts;
   M8 deck reworked; README/outline updated.
 - `RUN-SHEET.md`: minute-by-minute both days, pre-flight checklist, cut plan.
+- **`ONLINE-DELIVERY.md`**: authoritative online-solo, no-breakout run of every exercise
+  (individual or whole-room; no teams/cards/printouts). Delivery is online, one org.
 
 ## Current priorities
 
@@ -54,9 +57,12 @@ Enterprise + Azure shop. Delivery date 2026-09-22/23.
 
 ## Risks
 
-- **Day 2 overrun (~85 min as designed).** Mitigated by the run sheet cut plan; residual
-  risk if headcount is high (6 teams) and the day ends at 5:00.
+- **Day 2 overrun** — was ~85 min in-person; **online-solo reclaims ~30–55 min** (no
+  breakouts, whole-room capstone), so with the cut plan Day 2 lands near 5:00. Residual
+  risk only if headcount is high and the day is a hard 5:00.
 - Live-tooling failure in Ex2/Ex8b — mitigated by pre-run outputs/screenshots and fallbacks.
+- **Online engagement** — solo, no breakouts; discussion can go flat. Mitigated by
+  whole-room facilitation, polls, cameras-on, and calling on people by name (see online guide).
 
 ## Decisions needed from Mark
 

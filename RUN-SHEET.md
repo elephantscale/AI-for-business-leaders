@@ -1,12 +1,18 @@
 # Two-Day Run Sheet — AI for Business Leaders
 
-**For:** the 9/22–9/23 delivery · solo instructor · ChatGPT Enterprise for all
+**For:** the 9/22–9/23 delivery · **online** · solo instructor · one organization ·
+ChatGPT Enterprise for all · **no breakout rooms**
 **Built from:** the module decks, each exercise's own timing, and the 8b build lab.
 
-> **Read the "Timing reality" section first.** Both days are over-full as designed, and
-> **Day 2 does not fit a standard day without cuts.** This sheet gives you a realistic
-> minute-by-minute plan *and* a pre-decided cut list, so you're trimming on purpose at
-> 9am, not improvising at 4pm.
+> **Delivery is online and solo.** Run every exercise from **`ONLINE-DELIVERY.md`** — it is
+> the authoritative version for these two days (individual-on-own-seat or whole-room; no
+> teams, cards, sticky notes, or printouts). This run sheet gives the timeline; the online
+> guide gives how each block actually runs on the call.
+
+> **Timing, in short:** the course was over-full as originally designed (Day 2 by ~85 min),
+> but **going online-solo removes team/breakout overhead and reclaims ~15–25 min/day**, and
+> the whole-room capstone saves ~15–30 min more. With the cut plan below, **Day 2 now lands
+> close to a standard day.** Confirm headcount and day length and you're safe.
 
 ---
 
@@ -18,7 +24,8 @@
 | Lunch | 60 min | — |
 | Breaks | 2 × 15 min (mid-morning, mid-afternoon) | — |
 | Contact time / day | **390 min** (6.5 h) | — |
-| Headcount | 24, in 6 teams | Fewer teams shortens the capstone the most — 4 teams ≈ 60 min, not 90. |
+| Delivery | Online, no breakout rooms | See `ONLINE-DELIVERY.md` for how each exercise runs. |
+| Headcount | 24 individuals (no teams) | Online capstone is volunteer pitches (4–6), not team-by-team — see online guide. |
 | Lecture pace | ~1.5 min per content slide, execs, with discussion | A quiet room runs faster; a senior room runs slower (more challenge). |
 
 **Lecture-time estimates by module** (content slides × pace; demos included):
@@ -48,9 +55,12 @@
 **Day 1** is tight but teachable — it goes over only if M2 and M4 (the two big exercises)
 slip, which they will. Hold the debriefs to time and you land close.
 
-**Day 2 is the real problem.** M5–M8 plus the 90-minute capstone plus the new 35-minute
-8b build lab cannot fit 390 minutes. You must reclaim ~85 minutes. Decide how **before**
-the day, from the cut list below — do not discover it at 3pm with the capstone still to run.
+**Day 2 was the real problem in-person** (~85 min over). **Online-solo fixes most of it:**
+no breakout formation/teardown across the day (~15–25 min back) and a whole-room volunteer
+capstone instead of six team pitches (~15–30 min back). That's roughly 30–55 min reclaimed
+before you cut a single slide. Apply the light cuts below and Day 2 lands near 5:00 — but
+still **confirm headcount and day length**, and still pre-decide the cuts so you're not
+improvising at 3pm.
 
 ### The Day 2 cut plan (pick enough to reclaim ~85 min)
 
