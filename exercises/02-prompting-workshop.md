@@ -47,14 +47,20 @@ Two Enterprise capabilities change how these rounds run. Use them, and name them
 
 ## Materials
 
-| Doc | What it is | Used for |
-|---|---|---|
-| **A** | Project status report, ~1,000 words, MTS | Summarize |
-| **B** | 40 staff feedback comments on a process change | Infer |
-| **C** | A dense technical passage + a set of raw notes | Transform |
-| **D** | Bullet points for an internal announcement | Expand |
+| Doc | What it is | Used for | File |
+|---|---|---|---|
+| **A** | Project status report, ~1,000 words, MTS | Summarize | `doc-A-status-report.md` |
+| **B** | **40** staff feedback comments on a process change | Infer | `doc-B-staff-feedback.md` |
+| **C** | A dense technical passage + a set of raw notes | Transform | `doc-C-technical-and-notes.md` |
+| **D** | Bullet points for an internal announcement | Expand | `doc-D-announcement-bullets.md` |
 
 All in `02-materials/`. Fictional throughout — Meridian Technical Services.
+
+> **On the counts:** the pack is **four documents (A–D)**, and **Document B contains 40
+> comments** — the "40" in the Round 2 prompt refers to those, not to a missing set of
+> examples. All four documents are full-text in `02-materials/`; the prompts below just show
+> `<paste Document X>` as a placeholder for the file the participant uploads/pastes.
+> Upload-ready PDF/DOCX copies live in `course-materials/handouts/` for the shared folder.
 
 ## Timing
 
@@ -109,7 +115,8 @@ who knows the audience can specify the selection.
 
 **Instructions to participants:**
 
-> Document B is 40 pieces of staff feedback about a process change. Use this prompt:
+> Document B (`doc-B-staff-feedback.md`) is 40 pieces of staff feedback about a process
+> change — all 40 are in that file. Use this prompt:
 >
 > ```
 > Below are 40 pieces of feedback from staff about a new process.
