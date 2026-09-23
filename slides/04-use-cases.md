@@ -47,6 +47,34 @@ levers and Exercise 4. **Cohort-specific slide — update or delete it for a dif
 
 ---
 
+## Where We'll Answer This
+
+Every one of those is somewhere in the next two days:
+
+* **Check a document against the rules** → the *limits and grounding* module, then the
+  **build-your-own-assistant lab** where you make one do it — and **Spot the Failure**,
+  where you check its work
+* **Automate repeatable work** → the **no-code enablement** module (Copilot Studio,
+  Power Automate) and the business case that funds it
+* **Find the signal in operational data** → **today's prompting workshop** — inferring
+  themes and trends from a pile of raw feedback
+* **Draft faster** → the prompting workshop again — turning bullets into a full draft
+* **Trust the output** → the *trust* module, and the honest answer runs through the whole
+  course: **you verify, you don't trust**
+
+> Pick your use case now. You'll carry it through the portfolio, the business case, and
+> the final pitch.
+
+Notes:
+
+Road map slide — it tells this room their questions are all on the agenda, and it plants
+the forward references you'll cash in later (the grounded-assistant lab, the prompting
+rounds, the trust module). Keep it in participant language — don't read out module numbers
+or exercise codes. Your per-person detail for speaking to individuals is in the local
+answer map, not on this slide. **Cohort-specific — update or delete for a different room.**
+
+---
+
 ## Where AI Value Actually Comes From
 
 Five, and only five:
