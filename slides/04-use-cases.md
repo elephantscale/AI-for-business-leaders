@@ -59,8 +59,9 @@ Every one of those is somewhere in the next two days:
 * **Check a document against the rules** → the *limits and grounding* module, then the
   **build-your-own-assistant lab** where you make one do it — and **Spot the Failure**,
   where you check its work
-* **Automate repeatable work** → the **no-code enablement** module (Copilot Studio,
-  Power Automate) and the business case that funds it
+* **Automate repeatable work — including scheduled, unattended runs** → the **no-code
+  enablement** module (Copilot Studio, Power Automate), where we cover what to decide
+  before you let something run on a schedule, and the business case that funds it
 * **Find the signal in operational data** → **today's prompting workshop** — inferring
   themes and trends from a pile of raw feedback
 * **Draft faster** → the prompting workshop again — turning bullets into a full draft

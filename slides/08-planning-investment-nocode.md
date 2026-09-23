@@ -229,6 +229,43 @@ This is the module's key strategic message. It also reframes no-code from "toy" 
 
 ---
 
+## Scheduled & Automated Runs — at a Leader's Altitude
+
+Someone asked: *"can we just run this automatically, on a schedule?"* Yes — and here is
+what you actually decide.
+
+**The model is one sentence: *when this, do that.***
+
+* **The "when" is a trigger** — and a **schedule is just one kind of trigger** (every
+  morning at 8:00), alongside an event (a new email, ticket, or row) or a button you press
+* **The "do that" is the action** — and AI drops into the middle as a step: classify,
+  summarize, draft
+* **Your stack already does this, no code** — Power Automate, Copilot Studio
+
+**Your job isn't to wire it. It's to decide whether it should run *unattended*:**
+
+* **Reversible?** — what breaks if it runs wrong at 3am and nobody sees it until morning?
+* **Where's the approval gate?** — *draft for review* vs. *send automatically* is a
+  governance choice, not a technical one
+* **Who owns the output?** — an unattended job still has an accountable owner
+* **Is it in the AI inventory?** — a scheduled bot is shadow AI with a timer
+
+> The Module 7 line sets the stakes: automating something that only **produces text for a
+> human** is a small problem; automating something that **acts on its own** is where
+> governance earns its keep.
+
+Notes:
+
+This answers the scheduled/automated-runs question this room raised directly (the
+plugins/scheduled-tasks and "repeatable work evolutions" people). Keep it at leader
+altitude — do **not** teach trigger/action wiring here; that is a build skill. The four
+questions are the slide; the mechanics are just enough to make them concrete. For anyone
+who wants to actually build it, the honest pointer is the **No-Code AI Solutions** course —
+its automation module is exactly this, hands-on. Ties straight back to Module 7: a
+scheduled job that acts unattended is a governance event, and it goes in the inventory.
+
+---
+
 ## Where No-Code Sits in Your Portfolio
 
 * **Quick wins** — often entirely no-code. Ship them that way.
