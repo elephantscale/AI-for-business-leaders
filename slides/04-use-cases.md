@@ -20,6 +20,33 @@ capstone builds on what teams find in this exercise.
 
 ---
 
+## What This Room Already Wants
+
+You filled these in before we started. Aggregated, no names — this is your use-case list,
+before the exercise even begins:
+
+* **Check a document against the rules** — submittals vs. requirements, change-request
+  risk, guidance drawn from standards *(the most-named, by a wide margin)*
+* **Automate repeatable work** — processes, customer outreach, validation, scheduled tasks
+* **Find the signal in operational data** — ticket trends, month-end close, patterns
+* **Draft faster** — project and work plans, communications
+
+Underneath all of it, one shared demand: **you want to be able to trust the output.**
+
+> These are real use cases from real jobs in this room. The rest of today is finding more,
+> scoring them, and deciding which one you fund first.
+
+Notes:
+
+Built from this cohort's intro cards. The teaching point is **convergence**: the room
+independently named the same top cluster — *"check a document against the source of
+truth"* — which is exactly what the grounded-assistant build lab (8b) produces and what
+Exercise 3 trains. Refer to people by their use case, not their name, unless they raise it
+themselves. Use this to make the module personal, then go straight into the five value
+levers and Exercise 4. **Cohort-specific slide — update or delete it for a different room.**
+
+---
+
 ## Where AI Value Actually Comes From
 
 Five, and only five:
