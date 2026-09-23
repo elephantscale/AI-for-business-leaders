@@ -219,3 +219,6 @@ __marimo__/
 
 .DS_Store
 assembly*/
+
+# Local instructor-only cohort notes (contains student names/PII — never commit)
+course-materials/instructor-answer-map.md
