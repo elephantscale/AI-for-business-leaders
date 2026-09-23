@@ -27,11 +27,16 @@ before the exercise even begins:
 
 * **Check a document against the rules** — submittals vs. requirements, change-request
   risk, guidance drawn from standards *(the most-named, by a wide margin)*
+  — *your CISO, ISSM, and submittal reviewers*
 * **Automate repeatable work** — processes, customer outreach, validation, scheduled tasks
+  — *cybersecurity and IT managers*
 * **Find the signal in operational data** — ticket trends, month-end close, patterns
+  — *user services, IT PMO*
 * **Draft faster** — project and work plans, communications
+  — *portfolio & project management*
 
-Underneath all of it, one shared demand: **you want to be able to trust the output.**
+Underneath all of it, one shared demand: **you want to be able to trust the output**
+— *the whole room.*
 
 > These are real use cases from real jobs in this room. The rest of today is finding more,
 > scoring them, and deciding which one you fund first.
